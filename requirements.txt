@@ -1,0 +1,7 @@
+cffi==2.0.0
+cryptography==46.0.2
+fernet==1.0.1
+pyaes==1.6.1
+pycparser==2.23
+setuptools==80.9.0
+wheel==0.45.1
