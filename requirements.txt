@@ -5,3 +5,5 @@ pyaes==1.6.1
 pycparser==2.23
 setuptools==80.9.0
 wheel==0.45.1
+pynput==1.8.1
+six==1.17.0
